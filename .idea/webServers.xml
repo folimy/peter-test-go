@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="88666008-28a0-4115-9ab2-2caac2ce85b7" name="gotest-ubuntu1804">
+        <fileTransfer rootFolder="/data" accessType="SFTP" host="10.10.33.2" port="22" sshConfigId="6e775d7f-b1a6-433c-a0f2-950db3e0f21c" sshConfig="peter@10.10.33.2:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
